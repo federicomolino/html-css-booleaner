@@ -31,3 +31,17 @@ main{
 #booleaner{
     color: rgba(0, 0, 255, 0.7);
 }
+
+#underlined{
+    background-color: yellow;
+}
+
+.report-photo{
+    font-size: 13px;
+}
+
+th{
+    background-color: rgba(0, 0, 255, 0.2);
+    width: 500px;
+    text-align: left;
+}
