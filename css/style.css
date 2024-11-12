@@ -1,0 +1,15 @@
+body{
+    margin: 0 auto;
+}
+
+/*header*/
+header{
+    background-color: lightblue;
+    background-image:url("./cssimg/pattern.png");
+    background-repeat: repeat;
+}
+
+#logo-page{
+    height: 40px;
+    margin: 40px 200px;
+}
