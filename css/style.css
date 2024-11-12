@@ -13,3 +13,21 @@ header{
     height: 40px;
     margin: 40px 200px;
 }
+
+/*Main Page*/
+main{
+    margin-left: 200px;
+}
+
+#title-page{
+    margin-top: 30px;
+    margin-bottom: 0;
+}
+
+div span{
+    color: rgba(0, 0, 0, 0.6);
+}
+
+#booleaner{
+    color: rgba(0, 0, 255, 0.7);
+}
