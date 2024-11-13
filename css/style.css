@@ -6,7 +6,8 @@ body{
 header{
     background-color: lightblue;
     background-image:url("./cssimg/pattern.png");
-    background-repeat: repeat;
+    background-size: 25%;
+    background-repeat: repeat-x;
 }
 
 #logo-page{
@@ -26,6 +27,10 @@ main{
 
 .write{
     color: rgba(0, 0, 0, 0.6);
+}
+
+.img-style{
+    margin-top: 15px;
 }
 
 #booleaner{
