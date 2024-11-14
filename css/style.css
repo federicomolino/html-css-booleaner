@@ -52,8 +52,12 @@ th{
 }
 
 #table-title-special{
-    background-color: rgba(0, 0, 255, 0.2);
+    /*background-color: rgba(0, 0, 255, 0.2);*/
     width: 60%;
+}
+
+.column-1-2{
+    width: 20%;
 }
 
 .table-first-last{
